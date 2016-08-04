@@ -1,5 +1,5 @@
 ---
-services: active-directory;azure-rest-api;
+services: active-directory, azure-rest-api
 platforms: dotnet
 author: msonecode
 ---
