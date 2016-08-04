@@ -1,7 +1,7 @@
 ---
 services: active-directory;azure-rest-api;
 platforms: dotnet
-author: Eric Liu
+author: msonecode
 ---
 
 # How to authenticate Azure Rest API with Azure Service Principal by Powershell
