@@ -117,6 +117,7 @@ Function New-AzureRestAuthorizationHeader
 Export-ModuleMember -Function "New-AzureRestAuthorizationHeader"
 ```
 Mockup function
+
 ```ps1
 # change the $clientId $key and $tenantId according to your azure account and azure appliction 
 $clientId = "<Your application client Id>" 
